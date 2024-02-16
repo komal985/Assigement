@@ -1,2 +1,4 @@
-# Assigement
-Web tech Assigement
+Name - Komal Arya 
+Course- BCA 
+WEBTECH ASSIGEMENT
+Section - G2
